@@ -4,11 +4,72 @@ title: Calendar
 uid: 91cda397-0376-22c0-18fc-7a244596a588
 ---
 
-| LEC # | Topics |
-| --- | --- |
-| 1–6 | Radiative–Convective Equilibrium |
-| 7–10 | The Zonally–Averaged Circulation |
-| 11–13 | Asymmetric Steady Circulations |
-| 14–16 | Intraseasonal Oscillations |
-| 17–18 | Higher Frequency Disturbances |
-| 19–24 | Tropical Cyclones
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1–6
+{{< tdclose >}}
+{{< tdopen >}}
+Radiative–Convective Equilibrium
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7–10
+{{< tdclose >}}
+{{< tdopen >}}
+The Zonally–Averaged Circulation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11–13
+{{< tdclose >}}
+{{< tdopen >}}
+Asymmetric Steady Circulations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14–16
+{{< tdclose >}}
+{{< tdopen >}}
+Intraseasonal Oscillations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17–18
+{{< tdclose >}}
+{{< tdopen >}}
+Higher Frequency Disturbances
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19–24
+{{< tdclose >}}
+{{< tdopen >}}
+Tropical Cyclones
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

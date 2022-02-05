@@ -15,7 +15,7 @@ The lecture notes below represent the content taught in the Fall 2011 version of
 1.2. Simple Models without Phase Change ([PDF - 2.5MB]({{< baseurl >}}/resources/mit12_811s11_lecture_1)) ([PDF]({{< baseurl >}}/resources/mit12_811s11_lecture_2))  
 1.3. General Principles of Moist Convection ([PDF]({{< baseurl >}}/resources/mit12_811s11_lecture_2)) ([PDF - 1.0MB]({{< baseurl >}}/resources/mit12_811s11_lecture_3)) ([PDF - 1.4MB]({{< baseurl >}}/resources/mit12_811s11_lecture_4))  
 1.4. Simple Models with Phase Change (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit12_811s11_lecture_5)) ([PDF]({{< baseurl >}}/resources/mit12_811s11_lecture_6))  
-1.5. Quantitative Assessments of the Equilibrium State - Comparisons to Observations <not available>
+1.5. Quantitative Assessments of the Equilibrium State - Comparisons to Observations \<not available>
 
 2\. The Zonally-Averaged Circulation
 ------------------------------------
@@ -31,7 +31,7 @@ The lecture notes below represent the content taught in the Fall 2011 version of
 
 3.1. Monsoons (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.1MB]({{< baseurl >}}/resources/mit12_811s11_lecture_11)) ([PDF - 4.5MB]({{< baseurl >}}/resources/mit12_811s11_lecture_12))  
 3.1.1. Development and Onset of the Asian Monsoon (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF- 2.1MB]({{< baseurl >}}/resources/mit12_811s11_lecture_11))  
-3.1.2. Monsoon Breaks <not available>   
+3.1.2. Monsoon Breaks \<not available>   
 3.1.3. Nonlinear, Asymmetric Theory ([PDF - 4.5MB]({{< baseurl >}}/resources/mit12_811s11_lecture_12))  
 3.2. The Walker Circulation (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2MB]({{< baseurl >}}/resources/mit12_811s11_lecture_13))  
 3.2.1. Observations (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2MB]({{< baseurl >}}/resources/mit12_811s11_lecture_13))  
@@ -52,7 +52,7 @@ The lecture notes below represent the content taught in the Fall 2011 version of
 6\. Higher Frequency Disturbances
 ---------------------------------
 
-6.1. Monsoon Depressions <not available>  
+6.1. Monsoon Depressions \<not available>  
 6.2. Equatorial Waves ([PDF - 9.4MB]({{< baseurl >}}/resources/mit12_811s11_lecture_14))  
 6.3. Easterly Waves ([PDF - 1.1MB]({{< baseurl >}}/resources/mit12_811s11_lecture_17)) ([PDF - 1.1MB]({{< baseurl >}}/resources/mit12_811s11_lecture_18))
 
