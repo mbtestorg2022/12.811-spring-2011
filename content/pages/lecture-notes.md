@@ -14,28 +14,28 @@ The lecture notes below represent the content taught in the Fall 2011 version of
 1.1. General Principles of Radiative Transfer ([PDF - 2.5MB]({{< baseurl >}}/resources/mit12_811s11_lecture_1))  
 1.2. Simple Models without Phase Change ([PDF - 2.5MB]({{< baseurl >}}/resources/mit12_811s11_lecture_1)) ([PDF]({{< baseurl >}}/resources/mit12_811s11_lecture_2))  
 1.3. General Principles of Moist Convection ([PDF]({{< baseurl >}}/resources/mit12_811s11_lecture_2)) ([PDF - 1.0MB]({{< baseurl >}}/resources/mit12_811s11_lecture_3)) ([PDF - 1.4MB]({{< baseurl >}}/resources/mit12_811s11_lecture_4))  
-1.4. Simple Models with Phase Change (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit12_811s11_lecture_5)) ([PDF]({{< baseurl >}}/resources/mit12_811s11_lecture_6))  
+1.4. Simple Models with Phase Change ([PDF]({{< baseurl >}}/resources/mit12_811s11_lecture_5)) ([PDF]({{< baseurl >}}/resources/mit12_811s11_lecture_6))  
 1.5. Quantitative Assessments of the Equilibrium State - Comparisons to Observations \<not available>
 
 2\. The Zonally-Averaged Circulation
 ------------------------------------
 
 2.1. The Observed Climatology ([PDF - 7.3MB]({{< baseurl >}}/resources/mit12_811s11_lecture_7))  
-2.2. Breakdown of the Radiative-Convective Equilibrium State ([PDF - 1.0MB]({{< baseurl >}}/resources/mit12_811s11_lecture_8)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8MB]({{< baseurl >}}/resources/mit12_811s11_lecture_9))  
-2.3. Dry Theory ([PDF - 1.0MB]({{< baseurl >}}/resources/mit12_811s11_lecture_8)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8MB]({{< baseurl >}}/resources/mit12_811s11_lecture_9))  
-2.4. Moist Theory (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8MB]({{< baseurl >}}/resources/mit12_811s11_lecture_9)) ([PDF]({{< baseurl >}}/resources/mit12_811s11_lecture_10))  
-2.5. Regulation of Intensity (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8MB]({{< baseurl >}}/resources/mit12_811s11_lecture_9)) ([PDF]({{< baseurl >}}/resources/mit12_811s11_lecture_10))
+2.2. Breakdown of the Radiative-Convective Equilibrium State ([PDF - 1.0MB]({{< baseurl >}}/resources/mit12_811s11_lecture_8)) ([PDF - 1.8MB]({{< baseurl >}}/resources/mit12_811s11_lecture_9))  
+2.3. Dry Theory ([PDF - 1.0MB]({{< baseurl >}}/resources/mit12_811s11_lecture_8)) ([PDF - 1.8MB]({{< baseurl >}}/resources/mit12_811s11_lecture_9))  
+2.4. Moist Theory ([PDF - 1.8MB]({{< baseurl >}}/resources/mit12_811s11_lecture_9)) ([PDF]({{< baseurl >}}/resources/mit12_811s11_lecture_10))  
+2.5. Regulation of Intensity ([PDF - 1.8MB]({{< baseurl >}}/resources/mit12_811s11_lecture_9)) ([PDF]({{< baseurl >}}/resources/mit12_811s11_lecture_10))
 
 3\. Asymmetric Steady Circulations
 ----------------------------------
 
-3.1. Monsoons (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.1MB]({{< baseurl >}}/resources/mit12_811s11_lecture_11)) ([PDF - 4.5MB]({{< baseurl >}}/resources/mit12_811s11_lecture_12))  
-3.1.1. Development and Onset of the Asian Monsoon (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF- 2.1MB]({{< baseurl >}}/resources/mit12_811s11_lecture_11))  
+3.1. Monsoons ([PDF - 2.1MB]({{< baseurl >}}/resources/mit12_811s11_lecture_11)) ([PDF - 4.5MB]({{< baseurl >}}/resources/mit12_811s11_lecture_12))  
+3.1.1. Development and Onset of the Asian Monsoon ([PDF- 2.1MB]({{< baseurl >}}/resources/mit12_811s11_lecture_11))  
 3.1.2. Monsoon Breaks \<not available>   
 3.1.3. Nonlinear, Asymmetric Theory ([PDF - 4.5MB]({{< baseurl >}}/resources/mit12_811s11_lecture_12))  
-3.2. The Walker Circulation (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2MB]({{< baseurl >}}/resources/mit12_811s11_lecture_13))  
-3.2.1. Observations (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2MB]({{< baseurl >}}/resources/mit12_811s11_lecture_13))  
-3.2.2. Theory (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2MB]({{< baseurl >}}/resources/mit12_811s11_lecture_13))
+3.2. The Walker Circulation ([PDF - 1.2MB]({{< baseurl >}}/resources/mit12_811s11_lecture_13))  
+3.2.1. Observations ([PDF - 1.2MB]({{< baseurl >}}/resources/mit12_811s11_lecture_13))  
+3.2.2. Theory ([PDF - 1.2MB]({{< baseurl >}}/resources/mit12_811s11_lecture_13))
 
 4\. Interannual Fluctuations of the Walker Circulation – ENSO ([PDF]({{< baseurl >}}/resources/mit12_811s11_enso))\*
 --------------------------------------------------------------------------------------------------------------------
@@ -59,11 +59,11 @@ The lecture notes below represent the content taught in the Fall 2011 version of
 7\. Tropical Cyclones
 ---------------------
 
-7.1. Structure and Climatology (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8MB]({{< baseurl >}}/resources/mit12_811s11_strclim))\*  
+7.1. Structure and Climatology ([PDF - 1.8MB]({{< baseurl >}}/resources/mit12_811s11_strclim))\*  
 7.2. Steady-State Physics ([PDF - 1.2MB]({{< baseurl >}}/resources/mit12_811s11_lecture_19)) ([PDF - 1.5MB]({{< baseurl >}}/resources/mit12_811s11_lecture_20))  
 7.3. Inner Core Dynamics ([PDF]({{< baseurl >}}/resources/mit12_811s11_lecture_21))  
 7.4. Time-dependent, Axisymmetric Model Phrased in R Space ([PDF - 1.3MB]({{< baseurl >}}/resources/mit12_811s11_lecture_22))  
-7.5. Motion (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit12_811s11_lecture_23))  
+7.5. Motion ([PDF]({{< baseurl >}}/resources/mit12_811s11_lecture_23))  
 7.6. Ocean Interaction ([PDF - 3.2MB]({{< baseurl >}}/resources/mit12_811s11_lecture_24))  
 7.7. Effects of Environmental Wind Shear ([PDF - 3.2MB]({{< baseurl >}}/resources/mit12_811s11_lecture_24))  
 7.6. Genesis ([PDF - 3.2MB]({{< baseurl >}}/resources/mit12_811s11_lecture_24))

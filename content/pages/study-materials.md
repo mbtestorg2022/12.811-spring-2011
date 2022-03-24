@@ -15,11 +15,11 @@ Lindzen, Richard S., and Arthur V. Hou. "[Hadley Circulations for Zonally Averag
 
 Plumb, R. Alan, and Arthur Y. Hou. "[The Response of a Zonally Symmetric Atmosphere to Subtropical Thermal Forcing: Threshold Behavior](http://dx.doi.org/10.1175/1520-0469(1992)049<1790:TROAZS>2.0.CO;2)." _Journal of the Atmospheric Sciences_ 49, no. 19 (1992): 1790–9.
 
-Emanuel, Kerry A. "Notes and Correspondence on Thermally Direct Circulations in Moist Atmospheres." _Journal of the Atmospheric Science_ 52, no. 9 (1995): 1529–34. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](ftp://texmex.mit.edu/pub/emanuel/PAPERS/thermal95.pdf))
+Emanuel, Kerry A. "Notes and Correspondence on Thermally Direct Circulations in Moist Atmospheres." _Journal of the Atmospheric Science_ 52, no. 9 (1995): 1529–34. ([PDF](ftp://texmex.mit.edu/pub/emanuel/PAPERS/thermal95.pdf))
 
-Pauluis, Olivier. "Boundary Layer Dynamics and Cross–Equatorial Hadley Circulation." _Journal of the Atmospheric Sciences_ 61 (2004): 1161–73. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://math.nyu.edu/~pauluis/Olivier_Pauluis_Homepage/Bibliography_files/Pauluis_2004b.pdf))
+Pauluis, Olivier. "Boundary Layer Dynamics and Cross–Equatorial Hadley Circulation." _Journal of the Atmospheric Sciences_ 61 (2004): 1161–73. ([PDF](http://math.nyu.edu/~pauluis/Olivier_Pauluis_Homepage/Bibliography_files/Pauluis_2004b.pdf))
 
-Walker, Christopher C., and Tapio Schneider. "Eddy Influences on Hadley Circulations: Simulations with an Idealized GCM." _Journal of Atmospheric Sciences_ 63 (2006): 3333–50. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://wind.mit.edu/~emanuel/tropical/hadley_eddies.pdf))
+Walker, Christopher C., and Tapio Schneider. "Eddy Influences on Hadley Circulations: Simulations with an Idealized GCM." _Journal of Atmospheric Sciences_ 63 (2006): 3333–50. ([PDF](http://wind.mit.edu/~emanuel/tropical/hadley_eddies.pdf))
 
 Convection
 ----------
@@ -35,7 +35,7 @@ Plumb, Alan R., and Arthur Y. Hou. "[The Response of a Zonally Symmetric Atmosph
 
 Molnar, Peter, and Kerry A. Emanuel. "[Temperature Profiles in Radiative–Convective Equilibrium above Surfaces at Different Heights](http://dx.doi.org/10.1029/1999JD900485)." _Journal of Geophysical Research_ 104, no. D20 (1999): 24265–71.
 
-Emanuel, Kerry A. "Notes and Correspondence on Thermally Direct Circulations in Moist Atmospheres." _Journal of the Atmospheric Sciences_ 52, no. 9 (1995): 1529–34. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](ftp://texmex.mit.edu/pub/emanuel/PAPERS/thermal95.pdf))
+Emanuel, Kerry A. "Notes and Correspondence on Thermally Direct Circulations in Moist Atmospheres." _Journal of the Atmospheric Sciences_ 52, no. 9 (1995): 1529–34. ([PDF](ftp://texmex.mit.edu/pub/emanuel/PAPERS/thermal95.pdf))
 
 Chou, C., J. D. Neelin, et al. "[Ocean–atmosphere–land Feedbacks in an Idealized Monsoon](http://dx.doi.org/10.1002/qj.49712757602)." _Quarterly Journal of the Royal Meteorological Society_ 127, no. 576 (2001): 1869–91.
 
@@ -48,7 +48,7 @@ Madden, Roland A., and Paul R. Julian. "[Description of Global–Scale Circulati
 
 Wheeler, Matthew, and George N. Kiladis. "[Convectively Coupled Equatorial Waves: Analysis of Clouds and Temperature in the Wavenumber–Frequency Domain](http://dx.doi.org/10.1175/1520-0469(1999)056%3C0374:CCEWAO%3E2.0.CO;2)." _Journal of the Atmospheric Sciences_ 56, no. 3 (1999): 374–99.
 
-CalTech Review Paper, 2005 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://wind.mit.edu/~emanuel/tropical/Quasi-equilibrium_dynamics.pdf))
+CalTech Review Paper, 2005 ([PDF](http://wind.mit.edu/~emanuel/tropical/Quasi-equilibrium_dynamics.pdf))
 
 [Animated 200 hPa Velocity Potential](http://www.cpc.ncep.noaa.gov/products/precip/CWlink/ir_anim_monthly.shtml), from the CPC.
 
@@ -57,13 +57,13 @@ CalTech Review Paper, 2005 (![This resource may not render correctly in a screen
 El Niño/Southern Oscillation
 ----------------------------
 
-Eli Tziperman Lecture notes 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.whoi.edu/cms/files/lect_00_2001_21414.pdf))
+Eli Tziperman Lecture notes 1 ([PDF](http://www.whoi.edu/cms/files/lect_00_2001_21414.pdf))
 
-Eli Tziperman Lecture notes 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.whoi.edu/cms/files/lect_02_2001_21416.pdf))
+Eli Tziperman Lecture notes 2 ([PDF](http://www.whoi.edu/cms/files/lect_02_2001_21416.pdf))
 
-Eli Tziperman Lecture notes 3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.whoi.edu/cms/files/lect_03_2001_21417.pdf))
+Eli Tziperman Lecture notes 3 ([PDF](http://www.whoi.edu/cms/files/lect_03_2001_21417.pdf))
 
-Eli Tziperman Bibliography (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://wind.mit.edu/~emanuel/tropical/biblio.pdf))
+Eli Tziperman Bibliography ([PDF](http://wind.mit.edu/~emanuel/tropical/biblio.pdf))
 
 [NOAA El Niño Theme Page](http://www.pmel.noaa.gov/tao/elnino/nino-home.html)
 
@@ -78,7 +78,7 @@ Diedhiou, A., et al. "[Composite Pattern of Easterly Disturbances over West Afri
 
 Jeremy, Grist P., et al. "[Easterly Waves over Africa. Part II: Observed and Modeled Contrasts between Wet and Dry Years](http://dx.doi.org/10.1175/1520-0493(2002)130%3C0212:EWOAPI%3E2.0.CO;2)." _Monthly Weather Review_ 130, no. 2 (2002): 212–25.
 
-Pytharoulis, Ioannis, and Chris Thorncoft. "The Low–Level Structure of African Easterly Waves in 1995." _Monthly Weather Review_ 127 (1999): 2266–80. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://wind.mit.edu/~emanuel/tropical/Pytharoulis_Thorncroft.pdf))
+Pytharoulis, Ioannis, and Chris Thorncoft. "The Low–Level Structure of African Easterly Waves in 1995." _Monthly Weather Review_ 127 (1999): 2266–80. ([PDF](http://wind.mit.edu/~emanuel/tropical/Pytharoulis_Thorncroft.pdf))
 
 Thorncroft, Chris, and Kevin Hodges. "[African Easterly Wave Variability and Its Relationship to Atlantic Tropical Cyclone Activity](http://dx.doi.org/10.1175/1520-0442(2001)014%3C1166:AEWVAI%3E2.0.CO;2)." _Journal of Climate_ 14, no. 6 (2001): 1166–79.
 
@@ -91,6 +91,6 @@ Tropical Cyclones
 
 [Geosystems Hurricane Module Syllabus](http://wind.mit.edu/~emanuel/geosys/geosys.html)
 
-Paper on Tropical Cyclone Structure (see section 3) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://wind.mit.edu/~emanuel/tropical/Lilly_KE_ver2.pdf))
+Paper on Tropical Cyclone Structure (see section 3) ([PDF](http://wind.mit.edu/~emanuel/tropical/Lilly_KE_ver2.pdf))
 
 Emanuel, Kerry A. "[The Behavior of a Simple Hurricane Model using a Convective Scheme based on Subcloud–layer Entropy Equilibrium](http://dx.doi.org/10.1175/1520-0469(1995)052%3C3960:TBOASH%3E2.0.CO;2)." _Journal of the Atmospheric Sciences_ 52, no. 22 (1995): 3960–8.
