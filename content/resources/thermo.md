@@ -3,6 +3,7 @@ content_type: resource
 description: New file Upload
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-811-tropical-meteorology-spring-2011/f1486d8b6cfc43f7e398458704ee897a_thermo.h
 file_type: text/x-chdr
+parent_uid: 374ebf22-f5f1-50d9-82a5-d78288ffba8e
 resourcetype: Other
 title: thermo.h
 uid: f1486d8b-6cfc-43f7-e398-458704ee897a

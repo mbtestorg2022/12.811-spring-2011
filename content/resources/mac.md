@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 374ebf22-f5f1-50d9-82a5-d78288ffba8e
 resourcetype: Image
 title: mac.png
 uid: 3856459d-c916-2110-7601-efcdbd458bb5
